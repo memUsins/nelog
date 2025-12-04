@@ -1,4 +1,4 @@
-# NoLog
+# NeLog
 
 nelog — adapter based logger util
 
