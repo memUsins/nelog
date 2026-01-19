@@ -46,6 +46,7 @@ export class Entry implements IEntry {
   // WithName add name to entry data
   withName(name: string): IEntry {
     this.data.name = name;
+    this.data.withName = true;
     return this;
   }
 
